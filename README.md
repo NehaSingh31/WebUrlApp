@@ -1,4 +1,4 @@
-Making an App which fetching some api
+Making an App which fetching some api from WebUrlApp
 created a Controller class to calling every Api
 1.when we will call storeurl Api then post the request in database as a local variable
  http://localhost:8080/storeurl?url=google.com
